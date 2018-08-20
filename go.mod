@@ -1,4 +1,4 @@
-module bitbucket.org/sinyang/push_notifier
+module bitbucket.org/sinyang/firebase_messaging
 
 require (
 	cloud.google.com/go v0.26.0 // indirect
